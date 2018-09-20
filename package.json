@@ -1,0 +1,19 @@
+{
+  "name": "webgit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gbg.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/searjs/webGit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/searjs/webGit/issues"
+  },
+  "homepage": "https://github.com/searjs/webGit#readme"
+}
