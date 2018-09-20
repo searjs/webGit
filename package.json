@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/searjs/webGit/issues"
   },
-  "homepage": "https://github.com/searjs/webGit#readme"
+  "homepage": "https://github.com/searjs/webGit#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
 }
